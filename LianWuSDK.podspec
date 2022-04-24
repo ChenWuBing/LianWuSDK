@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'LianWuSDK/Classes/**/**'
+  s.source_files = 'LianWuSDK/Classes/*/*'
   s.vendored_frameworks = 'LianWuSDK/classes/LianWuSDK.framework'
   # s.resource_bundles = {
   #   'TestSDK_iOS' => ['TestSDK_iOS/Assets/*.png']
