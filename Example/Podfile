@@ -1,0 +1,6 @@
+use_frameworks!
+target 'LianWuSDK_Tests' do
+  pod 'LianWuSDK', :path => '../'
+  
+  
+end

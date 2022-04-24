@@ -1,0 +1,22 @@
+{
+  "name": "LianWuSDK",
+  "version": "0.1.0",
+  "summary": "A short description of LianWuSDK.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/wubing/LianWuSDK",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "wubing": "2192597240@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/wubing/LianWuSDK.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "LianWuSDK/Classes/**/*"
+}

@@ -1,0 +1,6 @@
+framework module LianWuSDK {
+  umbrella header "LianWuSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}
