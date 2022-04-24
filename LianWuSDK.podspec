@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/ChenWuBing/LianWuSDK.git'
+  s.homepage         = 'https://github.com/ChenWuBing/LianWuSDK'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'wubing' => '2192597240@qq.com' }
@@ -30,8 +30,8 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'LianWuSDK/Classes/**/*'
-  s.vendored_frameworks = 'LianWuSDK/Classes/LianWuSDK.framework'
+  s.source_files = 'LianWuSDK/Classes/**/**'
+  s.vendored_frameworks = 'LianWuSDK/classes/LianWuSDK.framework'
   # s.resource_bundles = {
   #   'TestSDK_iOS' => ['TestSDK_iOS/Assets/*.png']
   # }
