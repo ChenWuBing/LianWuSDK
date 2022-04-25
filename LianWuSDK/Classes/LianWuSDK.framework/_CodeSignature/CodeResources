@@ -194,7 +194,7 @@
 		</data>
 		<key>Headers/LianWuSDK-Swift.h</key>
 		<data>
-		4k3yhP26EuhXio3unzjbbfhVJvE=
+		fqhw0xrglTWrnaQii7n9ALiHmXU=
 		</data>
 		<key>Headers/LianWuSDK.h</key>
 		<data>
@@ -614,11 +614,11 @@
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		VW4TFbP1LYFvTJOdb2gZXK6SRvI=
+		YOtOPTEI4WX+TKial2ql3gAU5ws=
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		3ze67/Jx1ePLro8M2Et8gUVxD/w=
+		EYvdat6oGU3B83x4TzNqCxYRywM=
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -626,7 +626,7 @@
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		ZXHE5+yAV8D9/X2xyMqm2ZObDCk=
+		gJzP0syLvWiyqTPYIwbc3MnaQGQ=
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -634,7 +634,7 @@
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		KdEICJPLHstbedwZS8dUvEGNV1Q=
+		lHc7XhIL6aNaRCpcG/eFk1Td00o=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -1164,11 +1164,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4k3yhP26EuhXio3unzjbbfhVJvE=
+			fqhw0xrglTWrnaQii7n9ALiHmXU=
 			</data>
 			<key>hash2</key>
 			<data>
-			nOb3lN3gqGC0gJE+c+X4RbUWO4esVN+E+eumy1zZRTg=
+			avBZLdTSbWzAC0emAgudeIX0sekuaBKu20KDqfKPj5s=
 			</data>
 		</dict>
 		<key>Headers/LianWuSDK.h</key>
@@ -2308,22 +2308,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VW4TFbP1LYFvTJOdb2gZXK6SRvI=
+			YOtOPTEI4WX+TKial2ql3gAU5ws=
 			</data>
 			<key>hash2</key>
 			<data>
-			TBuLGkiZV4qZmVrhuHRZ2RqefvedlHE5V8MkOP/XUuE=
+			CFBxeHZBqAeQJWxcawJrhI0GUBfR8LCcPRa21bjyM6g=
 			</data>
 		</dict>
 		<key>Modules/LianWuSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3ze67/Jx1ePLro8M2Et8gUVxD/w=
+			EYvdat6oGU3B83x4TzNqCxYRywM=
 			</data>
 			<key>hash2</key>
 			<data>
-			3zeCoei38iMkaic/obfdyCqhY5/qdD43KwXCRYDB7Kk=
+			go4TfK0cQmVj2Xr0XFot4j9Bcfv8rQ6Gs0pQTp7TMOA=
 			</data>
 		</dict>
 		<key>Modules/LianWuSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -2341,11 +2341,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZXHE5+yAV8D9/X2xyMqm2ZObDCk=
+			gJzP0syLvWiyqTPYIwbc3MnaQGQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			bPcd0UtMLHkNIAe4ueUOZVdVsMCKQ7jLKqXfwwt7hsU=
+			ay05B7GfsCMVBGKOVXIhcxySAiBJHzUwzBDxsQpdcF8=
 			</data>
 		</dict>
 		<key>Modules/LianWuSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -2363,11 +2363,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KdEICJPLHstbedwZS8dUvEGNV1Q=
+			lHc7XhIL6aNaRCpcG/eFk1Td00o=
 			</data>
 			<key>hash2</key>
 			<data>
-			Egm3Ba76RAfiy8ae/qpk59L0yyHlaz1MRZwvWFeQmE4=
+			5gtsqQcrQlhrheHJf4Qi81rEZyfCQji5AfJUU92fn/8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
