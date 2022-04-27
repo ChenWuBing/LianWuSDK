@@ -94,11 +94,11 @@
 		</data>
 		<key>Frameworks/Pods_LianWuSDK.framework/Pods_LianWuSDK</key>
 		<data>
-		pTXdLKXn3EjoD4tNIEgMeDqIP08=
+		TuosTlo4YYztMjjsKPsXkp6SYbQ=
 		</data>
 		<key>Frameworks/Pods_LianWuSDK.framework/_CodeSignature/CodeDirectory</key>
 		<data>
-		idpBWtb5meSJEfRnxAYBoyunBlY=
+		tJoHHai4Phj3JKnnWyx06J9CtNo=
 		</data>
 		<key>Frameworks/Pods_LianWuSDK.framework/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -106,7 +106,7 @@
 		</data>
 		<key>Frameworks/Pods_LianWuSDK.framework/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		+fTzyz+rXNXVOiEP8pkvPEAQBQk=
+		TwhWoAA6qJZEINCL7ffkP+ydDUo=
 		</data>
 		<key>Frameworks/Pods_LianWuSDK.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Frameworks/Pods_LianWuSDK.framework/_CodeSignature/CodeSignature</key>
 		<data>
-		zXDh9cWlX7vxCYh4nsfB4WF3GSg=
+		+qZxVzNG39V20PHhdy6RSFh5QV4=
 		</data>
 		<key>Headers/AxcAE_TabBar.h</key>
 		<data>
@@ -135,14 +135,6 @@
 		<key>Headers/BaseTabBar.h</key>
 		<data>
 		f/nKJ8xJ1tzViGZfaw9Oe9/3STc=
-		</data>
-		<key>Headers/CpigeonHeader.h</key>
-		<data>
-		xSu/SK3I4hUai/dymGM4/bRYbHI=
-		</data>
-		<key>Headers/EFShowView.h</key>
-		<data>
-		sOj/v+TVlTdeAEUk1tUJdYpNLQg=
 		</data>
 		<key>Headers/EasyBlueToothManager.h</key>
 		<data>
@@ -194,11 +186,11 @@
 		</data>
 		<key>Headers/LianWuSDK-Swift.h</key>
 		<data>
-		fqhw0xrglTWrnaQii7n9ALiHmXU=
+		4k3yhP26EuhXio3unzjbbfhVJvE=
 		</data>
 		<key>Headers/LianWuSDK.h</key>
 		<data>
-		/XfOkZdOOiSF+GgbgSqe+PDSB0o=
+		y///yO7+yvsIgzwLefilqNilRak=
 		</data>
 		<key>Headers/NSBundle+CustomAlertBundle.h</key>
 		<data>
@@ -614,11 +606,11 @@
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		YOtOPTEI4WX+TKial2ql3gAU5ws=
+		fwRb5L/uEsLVm8qnTWTmyl8rqIc=
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<data>
-		EYvdat6oGU3B83x4TzNqCxYRywM=
+		nW1bRCy0ZHW5gIGkQbaXzFwYQDQ=
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -626,7 +618,7 @@
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		gJzP0syLvWiyqTPYIwbc3MnaQGQ=
+		iHvxQmbhwgOQPsjRMBDQtREz5sE=
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
 		<data>
@@ -634,7 +626,7 @@
 		</data>
 		<key>Modules/LianWuSDK.swiftmodule/armv7-apple-ios.swiftmodule</key>
 		<data>
-		lHc7XhIL6aNaRCpcG/eFk1Td00o=
+		eeYz8ubq3xnX1vOrJkxZA045p6U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -889,22 +881,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pTXdLKXn3EjoD4tNIEgMeDqIP08=
+			TuosTlo4YYztMjjsKPsXkp6SYbQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			9K4E49Rp4LK5GsFJtBYYRpJRT+oMFe6smNG3Kz6i4Rs=
+			YnCKR2UK+e2goX8dB2zg4jGfNl/nFz174QWj3MapBMA=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_LianWuSDK.framework/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			idpBWtb5meSJEfRnxAYBoyunBlY=
+			tJoHHai4Phj3JKnnWyx06J9CtNo=
 			</data>
 			<key>hash2</key>
 			<data>
-			D97lgHiYsgHMKLnfMJMCaUl7rM5blT1JCxqLzlNHbw0=
+			iD5LSc8FFXd6oVhnb3z7tuF8mwqfAbCdEpUQfW4dXIs=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_LianWuSDK.framework/_CodeSignature/CodeRequirements</key>
@@ -922,11 +914,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+fTzyz+rXNXVOiEP8pkvPEAQBQk=
+			TwhWoAA6qJZEINCL7ffkP+ydDUo=
 			</data>
 			<key>hash2</key>
 			<data>
-			d689c7CSMy4Dh8WoU6GcgFOLEHXFTsdR8amv/+GiuKc=
+			hQij2e8xiq+zjjKqlR49juKa9ZBjEN8A9tHbaZSJtvU=
 			</data>
 		</dict>
 		<key>Frameworks/Pods_LianWuSDK.framework/_CodeSignature/CodeResources</key>
@@ -944,11 +936,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zXDh9cWlX7vxCYh4nsfB4WF3GSg=
+			+qZxVzNG39V20PHhdy6RSFh5QV4=
 			</data>
 			<key>hash2</key>
 			<data>
-			Fdd4FDjv3j+bsHE8K+y4cIYlrUWIzY7ljE+yRK8NhxA=
+			xbT6mOjipvLqx7B2heirJbA9EqvjZG9jzSWLmGMh2+k=
 			</data>
 		</dict>
 		<key>Headers/AxcAE_TabBar.h</key>
@@ -1004,28 +996,6 @@
 			<key>hash2</key>
 			<data>
 			8CV0NwFvLbbifMcHtTSDemiHjE/0pwjVjOT3mdaxhcw=
-			</data>
-		</dict>
-		<key>Headers/CpigeonHeader.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xSu/SK3I4hUai/dymGM4/bRYbHI=
-			</data>
-			<key>hash2</key>
-			<data>
-			/4+ru577joCAEApgwL9XPNSGrfNdXP8EE/q7lkwcIxU=
-			</data>
-		</dict>
-		<key>Headers/EFShowView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			sOj/v+TVlTdeAEUk1tUJdYpNLQg=
-			</data>
-			<key>hash2</key>
-			<data>
-			uWNKXlZ12MxtFpnh2LKf6YSr5sITwBHjxMngaybzK+k=
 			</data>
 		</dict>
 		<key>Headers/EasyBlueToothManager.h</key>
@@ -1164,22 +1134,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fqhw0xrglTWrnaQii7n9ALiHmXU=
+			4k3yhP26EuhXio3unzjbbfhVJvE=
 			</data>
 			<key>hash2</key>
 			<data>
-			avBZLdTSbWzAC0emAgudeIX0sekuaBKu20KDqfKPj5s=
+			nOb3lN3gqGC0gJE+c+X4RbUWO4esVN+E+eumy1zZRTg=
 			</data>
 		</dict>
 		<key>Headers/LianWuSDK.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/XfOkZdOOiSF+GgbgSqe+PDSB0o=
+			y///yO7+yvsIgzwLefilqNilRak=
 			</data>
 			<key>hash2</key>
 			<data>
-			hfUfIlg1DtR0S8V/EzYgddvX+P/4xI/okuvo3p8DqA8=
+			Mt0cjM6PTzBAU+vbkxh7lTodt/abZjnyeh/O56cC3/o=
 			</data>
 		</dict>
 		<key>Headers/NSBundle+CustomAlertBundle.h</key>
@@ -2308,22 +2278,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YOtOPTEI4WX+TKial2ql3gAU5ws=
+			fwRb5L/uEsLVm8qnTWTmyl8rqIc=
 			</data>
 			<key>hash2</key>
 			<data>
-			CFBxeHZBqAeQJWxcawJrhI0GUBfR8LCcPRa21bjyM6g=
+			WodcjcDeMgyPTzn17fMrDw7LLBi//ajeQ2Sih9SRVRU=
 			</data>
 		</dict>
 		<key>Modules/LianWuSDK.swiftmodule/Project/armv7-apple-ios.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			EYvdat6oGU3B83x4TzNqCxYRywM=
+			nW1bRCy0ZHW5gIGkQbaXzFwYQDQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			go4TfK0cQmVj2Xr0XFot4j9Bcfv8rQ6Gs0pQTp7TMOA=
+			OSVpgSonFi1/GG3bTVq+j5duvLKRowCWGy/vsqZvJYI=
 			</data>
 		</dict>
 		<key>Modules/LianWuSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -2341,11 +2311,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gJzP0syLvWiyqTPYIwbc3MnaQGQ=
+			iHvxQmbhwgOQPsjRMBDQtREz5sE=
 			</data>
 			<key>hash2</key>
 			<data>
-			ay05B7GfsCMVBGKOVXIhcxySAiBJHzUwzBDxsQpdcF8=
+			6KGLCqDwDTkcxsVvlwPLD6+5z1B1gyX1qA5suJz5fw4=
 			</data>
 		</dict>
 		<key>Modules/LianWuSDK.swiftmodule/armv7-apple-ios.swiftdoc</key>
@@ -2363,11 +2333,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lHc7XhIL6aNaRCpcG/eFk1Td00o=
+			eeYz8ubq3xnX1vOrJkxZA045p6U=
 			</data>
 			<key>hash2</key>
 			<data>
-			5gtsqQcrQlhrheHJf4Qi81rEZyfCQji5AfJUU92fn/8=
+			4M5sv5AbBxtsjUwVf9Xfu/16r0FiWu+tDhV93H6ZcFI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
